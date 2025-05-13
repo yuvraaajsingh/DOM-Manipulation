@@ -31,3 +31,18 @@ hr{
     margin: 20px 0px 20px 0px;
 }
 
+
+
+.btn {
+    border-radius: 0px;
+    border: 1px solid lightgray;
+    width: 120px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.clr-btn{
+    background-color: black;
+    color: aliceblue;
+}
+
